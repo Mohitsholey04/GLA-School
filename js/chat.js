@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", function() {
     } else if (lowercaseMessage.includes('deadline of Admission')) {
         response = 'The admission deadline for the upcoming academic year is 28 May, 2024. We encourage you to submit your application before the deadline.';
     } else if (lowercaseMessage.includes('contact information')) {
-        response = 'If you have any further questions or need assistance with the admission process, you can contact our admissions office at [insert contact information].';
+        response = 'If you have any further questions or need assistance with the admission process, you can contact our admissions office and Call at this Number +91 8077128353.';
     } else if (lowercaseMessage.includes('tuition')) {
         response = 'Tuition fees vary depending on the program and level of study. For detailed information about tuition fees, please visit our website or contact our admissions office.';
     } else if (lowercaseMessage.includes('scholarships')) {
@@ -60,7 +60,7 @@ document.addEventListener("DOMContentLoaded", function() {
     } else if (lowercaseMessage.includes('curriculum')) {
         response = 'Our curriculum is designed to provide students with a comprehensive education that prepares them for success. You can find information about our curriculum on our website or contact our admissions office for details.';
     } else if (lowercaseMessage.includes('accreditation')) {
-        response = 'Our school is accredited by [insert accrediting body]. Accreditation ensures that our institution meets certain quality standards and that our programs are recognized and respected.';
+        response = 'Our school is accredited by CBSE Affiliated from Delhi. Accreditation ensures that our institution meets certain quality standards and that our programs are recognized and respected.';
     } else if (lowercaseMessage.includes('class size') || lowercaseMessage.includes('student-to-teacher ratio')) {
         response = 'Our class sizes vary depending on the program and course. We strive to maintain small class sizes to ensure personalized attention and effective learning experiences.';
     } else if (lowercaseMessage.includes('extracurricular activities')) {
